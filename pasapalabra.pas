@@ -1,4 +1,4 @@
-program pasapalabra;
+program Pasapalabra;
 
 const   POS_JUGADOR_1   = 1;
         POS_JUGADOR_2   = 2;
